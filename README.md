@@ -1,18 +1,18 @@
-# Perl-Code-Example
+## Perl-Code-Example
 Small code examples of Perl
 
 
-## Basic Constructs
-o	Perl Hello, World!
-o	Hello Again
-o	Scalar Variables
-o	Arrays
-o	Hashes
-o	Arrays and Hashes Together
-o	The Strict Pragma
+#### Basic Constructs
+1. Perl Hello, World!
+2. Hello Again
+3. Scalar Variables
+4. Arrays
+5. Hashes
+6. Arrays and Hashes Together
+7. The Strict Pragma
 
-## Loops, Arguments, I/O
-o	While Loop
+#### Loops, Arguments, I/O
+1. While Loop
 o	Echo I
 o	Echo II
 o	Echo III
